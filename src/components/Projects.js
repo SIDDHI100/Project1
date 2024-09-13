@@ -11,33 +11,38 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Engineering",
+      description: "All fabrication work",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Enterprises",
+      description: "Trading Work",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Enfra",
+      description: "Developers & builders",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Empire",
+      description: "Services",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Elite",
+      description: "Labour Services",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Samarth Agro & Foods Allies",
+      description: "Agro & Foods Products ",
+      imgUrl: projImg3,
+    },
+     {
+      title: "Samarth consultancy & Facility Services",
+      description: "Consultancy Firm ",
       imgUrl: projImg3,
     },
   ];
