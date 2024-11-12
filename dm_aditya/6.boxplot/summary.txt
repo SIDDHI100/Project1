@@ -1,0 +1,8 @@
+Summary for Column 1:
+Min: 1
+Q1: 3
+Median: 6
+Q3: 9
+Max: 20
+IQR: 6
+

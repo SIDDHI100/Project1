@@ -1,0 +1,4 @@
+Enter Child Column Number: 2
+Parent Entropy: 0.940286
+Child Entropy * Their proportion: 0.78845
+Info gain: 0.151836

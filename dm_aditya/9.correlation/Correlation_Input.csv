@@ -1,0 +1,11 @@
+tid,sun,mon,tue,wed,thu,fri,sat
+1,Y,Y,Y,Y,Y,N,N
+2,N,N,N,Y,N,Y,Y
+3,Y,N,Y,Y,N,N,Y
+4,N,Y,Y,Y,Y,Y,Y
+5,Y,Y,N,Y,N,Y,Y
+6,Y,Y,Y,Y,Y,Y,N
+7,N,N,Y,N,Y,N,Y
+8,Y,Y,Y,N,N,N,Y
+9,Y,N,Y,N,N,Y,Y
+10,N,Y,N,N,Y,Y,Y

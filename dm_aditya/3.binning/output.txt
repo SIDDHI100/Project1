@@ -1,0 +1,11 @@
+Binning results:
+Bin 1 (1 to 2.8): 2 items
+Data in this bin: 1 2 
+Bin 2 (2.8 to 4.6): 2 items
+Data in this bin: 3 4 
+Bin 3 (4.6 to 6.4): 2 items
+Data in this bin: 5 6 
+Bin 4 (6.4 to 8.2): 2 items
+Data in this bin: 7 8 
+Bin 5 (8.2 to 10): 2 items
+Data in this bin: 9 10 

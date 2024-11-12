@@ -1,0 +1,24 @@
+Min-Max Normalized Data:
+siddhi: 1
+sanket: 0
+shrenika: 0.142857
+shivraj: 0.428571
+shravni: 0.714286
+rutuja: 0.61039
+vardhan: 0.545455
+dhairya: 0.87013
+prathmesh: 0.857143
+shruti: 0.961039
+
+Z-Score Normalized Data:
+siddhi: 1.19877
+sanket: -1.89872
+shrenika: -1.45622
+shivraj: -0.571226
+shravni: 0.313772
+rutuja: -0.00804544
+vardhan: -0.209181
+dhairya: 0.796499
+prathmesh: 0.756271
+shruti: 1.07809
+

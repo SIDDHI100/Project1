@@ -1,0 +1,6 @@
+Parent Entropy: 1.000000
+Categorical Feature Selected
+Feature: N | Weighted Entropy: 1.000000 | Gini Index: 0.500000
+Feature: Y | Weighted Entropy: 1.000000 | Gini Index: 0.500000
+Information Gain for Selected Feature: 0.000000
+Final Gini Index after Best Split: 0.500000

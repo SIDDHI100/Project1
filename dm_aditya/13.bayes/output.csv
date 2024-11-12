@@ -1,0 +1,4 @@
+Class,Prior Probability,Feature Probabilities,Total Probability
+N,0.400000,0.056686,1.000000,0.500000,0.500000,0.166667=0.000945
+Y,0.600000,0.073201,0.166667,0.333333,0.500000,0.125000=0.000153
+Predicted Class: N
